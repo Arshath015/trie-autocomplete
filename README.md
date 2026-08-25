@@ -59,3 +59,10 @@ The current implementation has some limitations. For example, it does not handle
 * Optimize the scoring system for better performance
 ## License
 MIT License
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
